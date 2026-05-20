@@ -1,0 +1,20 @@
+[LOAD] 75 rows, 7 columns
+[LOAD] columns = ['id', 'audio_name', 'artist', 'number_of_uses', 'platform', 'category', 'link']
+[STANDARDIZE] columns: ['id', 'audio_name', 'artist', 'number_of_uses', 'platform', 'category', 'link']
+[STRIP] whitespace stripped on all string columns
+[PARSE] number_of_uses -> uses_count. Unparsed: 0
+[NORMALIZE] platform values: ['Instagram Reels', 'TikTok']
+[CATEGORY] primary: ['Calming', 'Humorous', 'Motivational', 'Upbeat', 'Uplifting']
+[CATEGORY] secondary: ['Hype', 'Meditative', 'Spoken Word', 'Uplifting']
+[DEDUPE] duplicate rows found: 2
+  - id=44 | Warm Strings (Original) | @mindfulmoments
+  - id=69 | Warm Strings (Original) | @mindfulmoments
+[DEDUPE] removed 1 row(s). Now 74 rows.
+[VALIDATE] valid URL format: 74/74
+[VALIDATE] NOTE: format-valid != resolvable. Manual check needed for final 3.
+[SCORE] brand_fit range: 1.81 -> 8.71
+[WRITE] cleaned dataset -> output\trending_audio_cleaned.csv
+[SELECT] top 3 -> output\top3_selections.csv
+  A - Calming: Golden Hour by JVKE | score=7.9 | uses=12,500,000
+  B - Motivational: Rise Up by Andra Day | score=6.78 | uses=6,200,000
+  C - Spoken Word: You Are Enough (Affirmation) by @mindsetcoachpro | score=8.71 | uses=4,200,000

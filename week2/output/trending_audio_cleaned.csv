@@ -1,0 +1,75 @@
+id,audio_name,artist,is_original_sound,platform,category_primary,category_secondary,uses_count,brand_fit_score,link,link_valid_format
+1,Weightless,Marconi Union,False,TikTok,Calming,,4800000,6.73,https://www.tiktok.com/music/Weightless-6909897548449426433,True
+2,Nuvole Bianche,Ludovico Einaudi,False,TikTok,Calming,,5600000,6.76,https://www.tiktok.com/music/Nuvole-Bianche-6718125453289365505,True
+3,Clair de Lune (Lo-fi Remix),Debussy / Lo-fi Edit,False,TikTok,Calming,,3200000,6.66,https://www.tiktok.com/music/Clair-de-Lune-Lofi-7023456789012345678,True
+4,Bloom (Bonus Track),The Paper Kites,False,TikTok,Calming,,1800000,6.56,https://www.tiktok.com/music/Bloom-6712345678901234567,True
+5,Holocene,Bon Iver,False,Instagram Reels,Calming,,4000000,6.7,https://www.instagram.com/reels/audio/holocene-bon-iver-6734512398765432,True
+6,Yellow (Piano Cover),Coldplay / Piano Cover,False,Instagram Reels,Calming,,6000000,6.77,https://www.instagram.com/reels/audio/yellow-piano-cover-6712348765012345,True
+7,Solitude Piano,Lofi Girl,False,Instagram Reels,Calming,,3100000,6.65,https://www.instagram.com/reels/audio/solitude-piano-lofi-6799012345678901,True
+8,Skinny Love (Acoustic),Bon Iver,False,TikTok,Calming,,2400000,6.61,https://www.tiktok.com/music/Skinny-Love-Acoustic-6745678901234567890,True
+9,Patience (Stripped),Tame Impala,False,Instagram Reels,Calming,,2200000,6.59,https://www.instagram.com/reels/audio/patience-tame-impala-6789012345678912,True
+10,Fly Me to the Moon (Lo-fi),Vitamin String Quartet,False,Instagram Reels,Calming,,1400000,6.51,https://www.instagram.com/reels/audio/fly-me-lofi-6756789012345678901,True
+11,Tibetan Singing Bowls,Meditation Sounds,False,TikTok,Calming,Meditative,3500000,7.67,https://www.tiktok.com/music/Tibetan-Singing-Bowls-6823456789012345678,True
+12,432Hz Healing Frequency,Sound Healing Mix,False,TikTok,Calming,Meditative,6800000,7.79,https://www.tiktok.com/music/432hz-Healing-6834567890123456789,True
+13,Sunrise Meditation (432Hz),Healing Sound Lab,False,TikTok,Calming,Meditative,4500000,7.72,https://www.tiktok.com/music/Sunrise-Meditation-432Hz-6845678901234567890,True
+14,Ocean Rain,Nature Sounds Studio,False,Instagram Reels,Calming,Meditative,1900000,7.57,https://www.instagram.com/reels/audio/ocean-rain-nature-6856789012345678901,True
+15,Rain on Leaves,Nature Ambience,False,Instagram Reels,Calming,Meditative,1200000,7.48,https://www.instagram.com/reels/audio/rain-on-leaves-6867890123456789012,True
+16,Gentle Stream,Nature Studio,False,Instagram Reels,Calming,Meditative,1700000,7.55,https://www.instagram.com/reels/audio/gentle-stream-6878901234567890123,True
+17,Fireplace Crackle,Cozy Sounds,False,TikTok,Calming,Meditative,2000000,7.57,https://www.tiktok.com/music/Fireplace-Crackle-6889012345678901234,True
+18,Forest Morning,Ambient Nature Mix,False,TikTok,Calming,Meditative,2300000,7.6,https://www.tiktok.com/music/Forest-Morning-6890123456789012345,True
+19,Healing Rain,Spa Music Collective,False,TikTok,Calming,Meditative,1300000,7.5,https://www.tiktok.com/music/Healing-Rain-6901234567890123456,True
+20,Notice (Original),@meditationmornings,True,TikTok,Calming,Meditative,760000,8.4,https://www.tiktok.com/music/Notice-Original-6912345678901234567,True
+21,Golden Hour,JVKE,False,TikTok,Calming,Uplifting,12500000,7.9,https://www.tiktok.com/music/golden-hour-6978492182063931393,True
+22,Good Days,SZA,False,Instagram Reels,Calming,Uplifting,9700000,7.85,https://www.instagram.com/reels/audio/good-days-sza-6934567890123456789,True
+23,Best Part,Daniel Caesar feat. H.E.R.,False,Instagram Reels,Calming,Uplifting,8900000,7.84,https://www.instagram.com/reels/audio/best-part-daniel-caesar-6945678901234567890,True
+24,Here Comes the Sun (Acoustic Cover),The Beatles / Acoustic Cover,False,Instagram Reels,Calming,Uplifting,5100000,7.74,https://www.instagram.com/reels/audio/here-comes-sun-cover-6956789012345678901,True
+25,Simple Things,Miguel,False,Instagram Reels,Calming,Uplifting,3000000,7.65,https://www.instagram.com/reels/audio/simple-things-miguel-6967890123456789012,True
+26,Safe and Sound,Capital Cities,False,TikTok,Calming,Uplifting,5000000,7.74,https://www.tiktok.com/music/Safe-and-Sound-6978901234567890123,True
+27,Peach (feat. Daniel Caesar),Kevin Abstract,False,Instagram Reels,Calming,Uplifting,2100000,7.58,https://www.instagram.com/reels/audio/peach-daniel-caesar-6989012345678901234,True
+28,Sunrise,Norah Jones,False,Instagram Reels,Calming,Uplifting,2500000,7.61,https://www.instagram.com/reels/audio/sunrise-norah-jones-6990123456789012345,True
+29,Coffee and Vinyl,Lo-fi Beats,False,Instagram Reels,Calming,Uplifting,1600000,7.53,https://www.instagram.com/reels/audio/coffee-vinyl-lofi-7001234567890123456,True
+30,Be Like a Woman,Chris Rainbow,False,Instagram Reels,Calming,Uplifting,3900000,7.69,https://www.instagram.com/reels/audio/be-like-a-woman-7012345678901234567,True
+31,Rise Up,Andra Day,False,TikTok,Motivational,,6200000,6.78,https://www.tiktok.com/music/Rise-Up-7023456789012345678,True
+32,Better Days (feat. Ant Clemons),Pharrell Williams,False,TikTok,Motivational,,4100000,6.7,https://www.tiktok.com/music/Better-Days-7034567890123456789,True
+33,Grow as We Go,Ben Platt,False,TikTok,Motivational,,3300000,6.66,https://www.tiktok.com/music/Grow-as-We-Go-7045678901234567890,True
+34,Start Again,OneRepublic feat. Logic,False,TikTok,Motivational,,2900000,6.64,https://www.tiktok.com/music/Start-Again-7056789012345678901,True
+35,Good Riddance (Time of Your Life),Green Day (Acoustic),False,TikTok,Motivational,,4300000,6.71,https://www.tiktok.com/music/Good-Riddance-Acoustic-7067890123456789012,True
+36,New Beginnings (Original),@morningmindsetpro,True,Instagram Reels,Motivational,,1100000,7.47,https://www.instagram.com/reels/audio/new-beginnings-original-7078901234567890123,True
+37,The Author,Brandon Lake & Nick Jonas,False,Instagram Reels,Motivational,,5300000,6.75,https://www.instagram.com/reels/audio/the-author-brandon-lake-7089012345678901234,True
+38,Adventure of a Lifetime (Acoustic),Coldplay,False,TikTok,Motivational,,3600000,6.68,https://www.tiktok.com/music/Adventure-of-a-Lifetime-Acoustic-7090123456789012345,True
+39,Peace in Progress,@zenlifestyle,True,TikTok,Motivational,,980000,7.45,https://www.tiktok.com/music/Peace-in-Progress-7101234567890123456,True
+40,One Step at a Time (Original),@growthmindsetdaily,True,Instagram Reels,Motivational,,1500000,7.52,https://www.instagram.com/reels/audio/one-step-at-a-time-7112345678901234567,True
+41,You Are Enough (Affirmation),@mindsetcoachpro,True,TikTok,Motivational,Spoken Word,4200000,8.71,https://www.tiktok.com/music/You-Are-Enough-7123456789012345678,True
+42,Morning Affirmations (Original),@dailypositivemind,True,Instagram Reels,Motivational,Spoken Word,2800000,8.63,https://www.instagram.com/reels/audio/morning-affirmations-7134567890123456789,True
+43,Breathe In Breathe Out,@calmwithjordan,True,TikTok,Motivational,Spoken Word,3100000,8.65,https://www.tiktok.com/music/Breathe-In-Breathe-Out-7145678901234567890,True
+44,Warm Strings (Original),@mindfulmoments,True,TikTok,Motivational,Spoken Word,870000,8.43,https://www.tiktok.com/music/Warm-Strings-Original-7156789012345678901,True
+45,Sunday Best,Surfaces,False,TikTok,Uplifting,,11200000,5.88,https://www.tiktok.com/music/Sunday-Best-6748065034951263233,True
+46,OKAY!,Forrest Frank,False,Instagram Reels,Uplifting,,8400000,5.83,https://www.instagram.com/reels/audio/okay-forrest-frank-7178901234567890123,True
+47,Count on Me,Bruno Mars,False,TikTok,Uplifting,,3800000,5.69,https://www.tiktok.com/music/Count-on-Me-7189012345678901234,True
+48,Electric Love (Acoustic),BORNS,False,TikTok,Uplifting,,4400000,5.71,https://www.tiktok.com/music/Electric-Love-Acoustic-7190123456789012345,True
+49,Mexico Honey,Kacey Musgraves,False,TikTok,Uplifting,,7300000,5.8,https://www.tiktok.com/music/Mexico-Honey-7201234567890123456,True
+50,There She Goes (CYRIL Remix),CYRIL x MOONLIGHT,False,TikTok,Uplifting,,2600000,5.62,https://www.tiktok.com/music/There-She-Goes-CYRIL-7212345678901234567,True
+51,Circles (Lo-fi Edit),Post Malone / Lo-fi Edit,False,TikTok,Upbeat,,7200000,3.8,https://www.tiktok.com/music/Circles-Lofi-7223456789012345678,True
+52,Slow Down,Chase Atlantic,False,Instagram Reels,Upbeat,,3400000,3.67,https://www.instagram.com/reels/audio/slow-down-chase-atlantic-7234567890123456789,True
+53,Losing My Religion (Acoustic),R.E.M. Cover,False,TikTok,Upbeat,,1900000,3.57,https://www.tiktok.com/music/Losing-My-Religion-Acoustic-7245678901234567890,True
+54,Let Her Go (Acoustic),Passenger,False,Instagram Reels,Upbeat,,4700000,3.73,https://www.instagram.com/reels/audio/let-her-go-passenger-7256789012345678901,True
+55,Suga Suga,Baby Bash feat. Frankie J,False,Instagram Reels,Upbeat,,6100000,3.77,https://www.instagram.com/reels/audio/suga-suga-baby-bash-7267890123456789012,True
+56,Quiet Comfort,Oldies Playing,False,Instagram Reels,Upbeat,,2100000,3.58,https://www.instagram.com/reels/audio/quiet-comfort-oldies-7278901234567890123,True
+57,POP DAT THING Remix,"DaBaby, GloRilla",False,Instagram Reels,Upbeat,Hype,9200000,1.85,https://www.instagram.com/reels/audio/pop-dat-thing-remix-7289012345678901234,True
+58,Beat It,Michael Jackson,False,Instagram Reels,Upbeat,Hype,14300000,1.92,https://www.instagram.com/reels/audio/beat-it-michael-jackson-7290123456789012345,True
+59,Runway,Lady Gaga & Doechii,False,Instagram Reels,Upbeat,Hype,7500000,1.81,https://www.instagram.com/reels/audio/runway-gaga-doechii-7301234567890123456,True
+60,Vogue (Edit),Madonna,False,Instagram Reels,Upbeat,Hype,8700000,1.84,https://www.instagram.com/reels/audio/vogue-edit-madonna-7312345678901234567,True
+61,I Have One Daughter,Luke Holloway,False,TikTok,Humorous,,17000000,2.95,https://www.tiktok.com/music/I-Have-One-Daughter-7323456789012345678,True
+62,The One That Got Away,Katy Perry,False,Instagram Reels,Humorous,,5800000,2.76,https://www.instagram.com/reels/audio/one-that-got-away-kp-7334567890123456789,True
+63,Spongebob Imagination,SpongeBob SquarePants (Sound Effect),False,TikTok,Humorous,,22000000,3.0,https://www.tiktok.com/music/Spongebob-Imagination-7345678901234567890,True
+64,Oh No (Jeopardy Remix),Kreepa / Meme Edit,False,TikTok,Humorous,,18500000,2.97,https://www.tiktok.com/music/Oh-No-Jeopardy-7356789012345678901,True
+65,Red Flags Original Sound,@comedyskits_daily,True,TikTok,Humorous,,6700000,3.79,https://www.tiktok.com/music/Red-Flags-Original-7367890123456789012,True
+66,Plot Twist Sound,@trendingmemes2026,True,Instagram Reels,Humorous,,11800000,3.89,https://www.instagram.com/reels/audio/plot-twist-sound-7378901234567890123,True
+67,Surprised Pikachu Remix,Meme Sounds,False,TikTok,Humorous,,9900000,2.86,https://www.tiktok.com/music/Surprised-Pikachu-Remix-7389012345678901234,True
+68,Everything is Fine (Sarcastic),@relatablemoments,True,Instagram Reels,Humorous,,8100000,3.82,https://www.instagram.com/reels/audio/everything-is-fine-7390123456789012345,True
+69,Lover (Acoustic),Taylor Swift,False,TikTok,Uplifting,,13200000,5.91,https://www.tiktok.com/music/Lover-Acoustic-7401234567890123456,True
+70,Cardigan (Piano),Taylor Swift / Piano Cover,False,Instagram Reels,Calming,,8300000,6.83,https://www.instagram.com/reels/audio/cardigan-piano-7412345678901234567,True
+71,Treacherous (Acoustic),Taylor Swift,False,TikTok,Calming,,4900000,6.73,https://www.tiktok.com/music/Treacherous-Acoustic-7423456789012345678,True
+72,Beautiful Things,Benson Boone,False,TikTok,Uplifting,,16400000,5.95,https://www.tiktok.com/music/Beautiful-Things-7434567890123456789,True
+73,Espresso,Sabrina Carpenter,False,TikTok,Upbeat,,19700000,3.98,https://www.tiktok.com/music/Espresso-7445678901234567890,True
+74,Lacy,Olivia Rodrigo,False,Instagram Reels,Calming,Uplifting,7600000,7.81,https://www.instagram.com/reels/audio/lacy-olivia-rodrigo-7456789012345678901,True

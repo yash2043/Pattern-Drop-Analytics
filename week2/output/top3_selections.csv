@@ -1,0 +1,4 @@
+slot,id,audio_name,artist,is_original_sound,platform,category_primary,category_secondary,uses_count,brand_fit_score,link,link_valid_format
+A - Calming,21,Golden Hour,JVKE,False,TikTok,Calming,Uplifting,12500000,7.9,https://www.tiktok.com/music/golden-hour-6978492182063931393,True
+B - Motivational,31,Rise Up,Andra Day,False,TikTok,Motivational,,6200000,6.78,https://www.tiktok.com/music/Rise-Up-7023456789012345678,True
+C - Spoken Word,41,You Are Enough (Affirmation),@mindsetcoachpro,True,TikTok,Motivational,Spoken Word,4200000,8.71,https://www.tiktok.com/music/You-Are-Enough-7123456789012345678,True
